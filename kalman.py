@@ -9,7 +9,8 @@ sigmaz = sigmaz_list[1]
 ks = []
 
 # fin = open("master.csv").readlines()
-fin = open("5.csv").readlines()
+# fin = open("5.csv").readlines()
+fin = open("nucleo.csv").readlines()
 
 zs = []
 xs_hat_bar = [ ] # a priori estimated value
