@@ -2,4 +2,4 @@
 
 ![](image/density.png)
 
-![](image/LPF_FFT_IFFT.png)
+![](image/lpf_scaled.png)

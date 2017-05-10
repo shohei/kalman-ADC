@@ -45,5 +45,6 @@ subplot(224)
 f = np.fft.ifft(Fk)
 plot(f)
 title(u'ローパスフィルタをかけた信号波形')
+ylim([3000,3400])
 
 show()
